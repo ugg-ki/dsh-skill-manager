@@ -26,6 +26,11 @@
     "skills",
     "skill-manager"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ugg-ki/dsh-skill-manager.git"
+  },
+  "homepage": "https://github.com/ugg-ki/dsh-skill-manager#readme",
   "license": "MIT",
   "dsh": {
     "bundle": {
