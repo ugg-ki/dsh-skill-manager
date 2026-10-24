@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Skill Manager",
+    "description": "Lists every skill in a session view and turns each one on or off; unchecked skills leave the model's skill catalog and the skill tool refuses them."
+  }
+}

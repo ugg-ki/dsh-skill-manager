@@ -1,0 +1,7 @@
+# dsh-skill-manager — per-skill enable/disable, managed from a conversation view.
+# Host half filters the model catalog and guards the skill tool against disabled
+# names; the browser bridge lives at /api/dsh-skill-manager.
+- insert:
+    - id: skill-manager
+      name: dsh-skill-manager
+      config: {}
